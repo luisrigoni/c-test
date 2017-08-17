@@ -1,6 +1,6 @@
-C Test Project
+Small Task Scheduler in C while learning operating systems
 
-http://wiki.inf.ufpr.br/maziero/doku.php?id=start
+http://wiki.inf.ufpr.br/maziero/doku.php?id=so:projetos_desenvolvidos
 
 [![alt](https://codenvy.com/factory/resources/factory-white.png)](https://codenvy.com/factory?id=gq5i9g43vlwynggf)
 
